@@ -34,7 +34,7 @@ Screenshot of an active linter pycodestyle (Python) integrated into Visual Studi
 * <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters"> Rest parameter </a>
 * <a href = "https://towardsdatascience.com/javascript-es6-iterables-and-iterators-de18b54f4d4"> Javascript ES6 — Iterables and Iterators </a>
 
-##Requirements
+## Requirements
 * All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
 * Allowed editors: vi, vim, emacs, Visual Studio Code
 * All your files should end with a new line
