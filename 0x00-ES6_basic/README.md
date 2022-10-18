@@ -23,3 +23,13 @@ Passive checking is done by taking a piece of code, and manually running it thro
 Examples
 
 Screenshot of an active linter pycodestyle (Python) integrated into Visual Studio Code
+
+
+## Resources
+## Read or Watch
+* <a href = "https://www.w3schools.com/js/js_es6.asp">  ECMAScript 6 - ECMAScript 2015</a>
+* <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements"> Statements and declarations </a>
+* <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions"> Arrow functions </a>
+* <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters"> Default parameters </a>
+* <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters"> Rest parameter </a>
+* <a href = "https://towardsdatascience.com/javascript-es6-iterables-and-iterators-de18b54f4d4"> Javascript ES6 — Iterables and Iterators </a>
