@@ -79,7 +79,7 @@ $ npm -v
 
 ## Configuration files
 
-####package.json
+### package.json
 ### package.json 
 
 
