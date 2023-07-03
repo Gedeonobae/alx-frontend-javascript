@@ -4,7 +4,7 @@
 ## JavaScript
 </br>
 
-Module of **Front-end specialization**, carried out during **Software Engineering studies** at **[ALX School](https://www.alxafrica.com)**.
+Module of **Front-end specialization**, carried  out during **Software Engineering studies** at **[ALX School](https://www.alxafrica.com)**.
 
 
 ## Projects
